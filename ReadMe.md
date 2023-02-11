@@ -43,7 +43,9 @@ run the script (you probably have to execute the script with sudo in-front)
 ```
 
 ### Method 2:
-This is the manual way of installing Observium
+to install Observium manually please visit their website and look into 
+the documentation for further instructions.
 
 ### Method 3:
-using the docker-compose fiel provided
+
+Steps for this method are pending.
